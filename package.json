@@ -31,7 +31,7 @@
     "commander": "7.0.0",
     "fs-extra": "9.1.0",
     "git-bookiza": "1.0.0",
-    "marked": "1.2.7",
+    "marked": "2.0.0",
     "natives": "1.1.6",
     "request": "2.88.2",
     "request-promise": "4.2.6",
